@@ -1600,7 +1600,7 @@
         {
          "columns":3,
          "firstgid":13694,
-         "image":"..\/..\/..\/..\/Studium\/Projektarbeit\/Map\/Maps\/TileSets\/TileSet bearbeitet\/test.png",
+         "image":"TileSets/TileSet bearbeitet\/test.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -1613,7 +1613,7 @@
         {
          "columns":3,
          "firstgid":14319,
-         "image":"..\/..\/..\/..\/Studium\/Projektarbeit\/Map\/Maps\/TileSets\/TileSet bearbeitet\/Adam.png",
+         "image":"TileSets/TileSet bearbeitet\/Adam.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
