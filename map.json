@@ -1425,7 +1425,7 @@
         {
          "columns":48,
          "firstgid":8523,
-         "image":"..\/..\/TileSets\/Modern interiors\/Modern_Interiors\/2_Characters\/32x32\/Adam_32x32.png",
+         "image":"..\/Projektarbeit TileSet\/Adam_32x32.png",
          "imageheight":576,
          "imagewidth":1536,
          "margin":0,
@@ -1464,7 +1464,7 @@
         {
          "columns":48,
          "firstgid":9387,
-         "image":"..\/..\/TileSets\/Modern interiors\/Modern_Interiors\/2_Characters\/32x32\/Amelia_32x32.png",
+         "image":"../Projektarbeit TileSet\/Amelia_32x32.png",
          "imageheight":576,
          "imagewidth":1536,
          "margin":0,
@@ -1477,7 +1477,7 @@
         {
          "columns":48,
          "firstgid":10251,
-         "image":"..\/..\/TileSets\/Modern interiors\/Modern_Interiors\/2_Characters\/32x32\/Ash_32x32.png",
+         "image":"../Projektarbeit TileSet\/Ash_32x32.png",
          "imageheight":576,
          "imagewidth":1536,
          "margin":0,
@@ -1490,7 +1490,7 @@
         {
          "columns":48,
          "firstgid":11115,
-         "image":"..\/..\/TileSets\/Modern interiors\/Modern_Interiors\/2_Characters\/32x32\/Pier_32x32.png",
+         "image":"../Projektarbeit TileSet\/Pier_32x32.png",
          "imageheight":576,
          "imagewidth":1536,
          "margin":0,
@@ -1542,7 +1542,7 @@
         {
          "columns":28,
          "firstgid":11980,
-         "image":"..\/..\/TileSets\/Modern interiors\/Modern_Interiors\/3_Animated_objects\/32x32\/spritesheets\/animated_elevator_door_entrance_1_32x32.png",
+         "image":"../Projektarbeit TileSet\/animated_elevator_door_entrance_1_32x32.png",
          "imageheight":64,
          "imagewidth":896,
          "margin":0,
@@ -1803,7 +1803,7 @@
         {
          "columns":48,
          "firstgid":15028,
-         "image":"..\/..\/TileSets\/Modern interiors\/Modern_Interiors\/2_Characters\/32x32\/Samuel_32x32.png",
+         "image":"../Projektarbeit TileSet\/Samuel_32x32.png",
          "imageheight":576,
          "imagewidth":1536,
          "margin":0,
