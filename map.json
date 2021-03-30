@@ -103696,7 +103696,7 @@
     {
       "columns": 16,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Musik.png",
+      "image": "/Projektarbeit TileSet/Musik.png",
       "imageheight": 928,
       "imagewidth": 512,
       "margin": 0,
@@ -103709,7 +103709,7 @@
     {
       "columns": 15,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Raum Boden.png",
+      "image": "/Projektarbeit TileSet/Raum Boden.png",
       "imageheight": 1280,
       "imagewidth": 480,
       "margin": 0,
@@ -103722,7 +103722,7 @@
     {
       "columns": 42,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Raum Boden_Weg.png",
+      "image": "/Projektarbeit TileSet/Raum Boden_Weg.png",
       "imageheight": 384,
       "imagewidth": 1344,
       "margin": 0,
@@ -103735,7 +103735,7 @@
     {
       "columns": 16,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Raum Modern Bodem_Weg.png",
+      "image": "/Projektarbeit TileSet/Raum Modern Bodem_Weg.png",
       "imageheight": 384,
       "imagewidth": 512,
       "margin": 0,
@@ -103748,7 +103748,7 @@
     {
       "columns": 42,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Raum Rahmen.png",
+      "image": "/Projektarbeit TileSet/Raum Rahmen.png",
       "imageheight": 160,
       "imagewidth": 1344,
       "margin": 0,
@@ -103761,7 +103761,7 @@
     {
       "columns": 32,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Raum Wand.png",
+      "image": "/Projektarbeit TileSet/Raum Wand.png",
       "imageheight": 1280,
       "imagewidth": 1024,
       "margin": 0,
@@ -103774,7 +103774,7 @@
     {
       "columns": 16,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Standart.png",
+      "image": "/Projektarbeit TileSet/Standart.png",
       "imageheight": 1920,
       "imagewidth": 512,
       "margin": 0,
@@ -103787,7 +103787,7 @@
     {
       "columns": 16,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Treppen.png",
+      "image": "/Projektarbeit TileSet/Treppen.png",
       "imageheight": 864,
       "imagewidth": 512,
       "margin": 0,
@@ -103800,7 +103800,7 @@
     {
       "columns": 16,
       "firstgid": 416,
-      "image": "/Projektarbeit TileSet\/Wohnzimmer.png",
+      "image": "/Projektarbeit TileSet/Wohnzimmer.png",
       "imageheight": 1280,
       "imagewidth": 512,
       "margin": 0,
@@ -103976,7 +103976,7 @@
     {
       "columns": 4,
       "firstgid": 461,
-      "image": "/Projektarbeit TileSet\/Empfang.png",
+      "image": "/Projektarbeit TileSet/Empfang.png",
       "imageheight": 64,
       "imagewidth": 128,
       "margin": 0,
@@ -103989,7 +103989,7 @@
     {
       "columns": 48,
       "firstgid": 461,
-      "image": "/Projektarbeit TileSet\/Adam_32x32.png",
+      "image": "/Projektarbeit TileSet/Adam_32x32.png",
       "imageheight": 576,
       "imagewidth": 1536,
       "margin": 0,
@@ -104029,7 +104029,7 @@
     {
       "columns": 48,
       "firstgid": 990,
-      "image": "/Projektarbeit TileSet\/Amelia_32x32.png",
+      "image": "/Projektarbeit TileSet/Amelia_32x32.png",
       "imageheight": 576,
       "imagewidth": 1536,
       "margin": 0,
@@ -104042,7 +104042,7 @@
     {
       "columns": 48,
       "firstgid": 990,
-      "image": "/Projektarbeit TileSet\/Ash_32x32.png",
+      "image": "/Projektarbeit TileSet/Ash_32x32.png",
       "imageheight": 576,
       "imagewidth": 1536,
       "margin": 0,
@@ -104055,7 +104055,7 @@
     {
       "columns": 48,
       "firstgid": 990,
-      "image": "/Projektarbeit TileSet\/Pier_32x32.png",
+      "image": "/Projektarbeit TileSet/Pier_32x32.png",
       "imageheight": 576,
       "imagewidth": 1536,
       "margin": 0,
@@ -104068,7 +104068,7 @@
     {
       "columns": 1,
       "firstgid": 990,
-      "image": "/Projektarbeit TileSet\/Collision.png",
+      "image": "/Projektarbeit TileSet/Collision.png",
       "imageheight": 32,
       "imagewidth": 32,
       "margin": 0,
@@ -104108,7 +104108,7 @@
     {
       "columns": 28,
       "firstgid": 991,
-      "image": "/Projektarbeit TileSet\/animated_elevator_door_entrance_1_32x32.png",
+      "image": "/Projektarbeit TileSet/animated_elevator_door_entrance_1_32x32.png",
       "imageheight": 64,
       "imagewidth": 896,
       "margin": 0,
@@ -104271,7 +104271,7 @@
     {
       "columns": 16,
       "firstgid": 1021,
-      "image": "/Projektarbeit TileSet\/Standart_neu.png",
+      "image": "/Projektarbeit TileSet/Standart_neu.png",
       "imageheight": 1920,
       "imagewidth": 512,
       "margin": 0,
@@ -104284,7 +104284,7 @@
     {
       "columns": 16,
       "firstgid": 1021,
-      "image": "/Projektarbeit TileSet\/Wohnzimmer_neu.png",
+      "image": "/Projektarbeit TileSet/Wohnzimmer_neu.png",
       "imageheight": 1280,
       "imagewidth": 512,
       "margin": 0,
@@ -104297,7 +104297,7 @@
     {
       "columns": 16,
       "firstgid": 1021,
-      "image": "/Projektarbeit TileSet\/Basement_neu.png",
+      "image": "/Projektarbeit TileSet/Basement_neu.png",
       "imageheight": 1600,
       "imagewidth": 512,
       "margin": 0,
@@ -104310,7 +104310,7 @@
     {
       "columns": 16,
       "firstgid": 1021,
-      "image": "/Projektarbeit TileSet\/Krankenhaus_neu.png",
+      "image": "/Projektarbeit TileSet/Krankenhaus_neu.png",
       "imageheight": 1184,
       "imagewidth": 512,
       "margin": 0,
@@ -104375,7 +104375,7 @@
     {
       "columns": 48,
       "firstgid": 1282,
-      "image": "/Projektarbeit TileSet\/Samuel_32x32.png",
+      "image": "/Projektarbeit TileSet/Samuel_32x32.png",
       "imageheight": 576,
       "imagewidth": 1536,
       "margin": 0,
@@ -104388,7 +104388,7 @@
     {
       "columns": 42,
       "firstgid": 1282,
-      "image": "/Projektarbeit TileSet\/Raum Rahmen_neu.png",
+      "image": "/Projektarbeit TileSet/Raum Rahmen_neu.png",
       "imageheight": 160,
       "imagewidth": 1344,
       "margin": 0,
