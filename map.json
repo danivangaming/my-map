@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"..\/..\/..\/..\/Users\/ToanT\/Desktop\/map..json"
         }
     },
  "height":50,
@@ -594,14 +594,14 @@
          "name":"Collision 2",
          "offsetx":0,
          "offsety":15,
-         "opacity":0,
+         "opacity":0.98,
          "type":"tilelayer",
          "visible":true,
          "width":50,
          "x":0,
          "y":0
         }],
- "nextlayerid":62,
+ "nextlayerid":61,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -762,6 +762,11 @@
          "spacing":0,
          "tilecount":528,
          "tileheight":32,
+         "tileoffset":
+            {
+             "x":100,
+             "y":0
+            },
          "tiles":[
                 {
                  "id":114,
